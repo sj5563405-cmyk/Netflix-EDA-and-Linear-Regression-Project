@@ -84,5 +84,5 @@ The dataset used is **`netflix_titles.csv`** from [Kaggle: Netflix Movies and TV
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
+**Harshal Jadhav**  
 Data Science Enthusiast | Python | Machine Learning
